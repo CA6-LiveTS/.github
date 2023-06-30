@@ -5,4 +5,4 @@ Chrome extension used to generate Chapter/Timestamp of yt stream.
 Export tool used to export the LiveTs File to ffmpeg format to create chapter in downloaded vod.
   
 ## StreamTS-
-Repos containing LiveTs file of various streams, mostly used as demo file and to test LiveTs Tools  
+Repos containing LiveTs files of various streams, primarily creators I enjoy watching, are also used as demo files or to test LiveTs Tools.  
