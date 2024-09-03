@@ -1,5 +1,5 @@
 # CA6 LiveTS
-Most of the VodTS/LiveTS Chrome extension development was moved to: https://github.com/david-ca6/vodts2
+Most of the VodTS/LiveTS Chrome extension development was moved to: https://github.com/david-ca6/vodts
 
 ## LiveTS-
 Repos contain a set of tools to create Timestamps file of YouTube/Twitch streams.  
